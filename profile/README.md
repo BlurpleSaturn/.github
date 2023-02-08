@@ -1,11 +1,3 @@
-<h1 align="center"><b>Hi, Welcome to the Blurple Saturn Github! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Remember+to+check+my+repositories;And+remember+to+star+them!;Goodbye%3C3" alt="Typing SVG" /></a>
-<br/>
-
-
-[![Visitors](https://komarev.com/ghpvc/?username=BlurpleSaturn&color=5865f2&style=for-the-badge)](https://github.com/BlurpleSaturn)
-[![followers](https://img.shields.io/github/followers/BlurpleSaturn?color=5865f2&style=for-the-badge)](https://github.com/BlurpleSaturn)
-
 ### Connect with us:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/TKz7BMwEap)
 
