@@ -1,6 +1,8 @@
 ### Connect with us:
 [![DiscordBanner](https://invidget.switchblade.xyz/TKz7BMwEap)](https://discord.gg/TKz7BMwEap)
 
+### Stats for our members!
+
 <p align="left">
  <a href=https://www.discord.com/users/711712752246325343><img width="420" src=https://github-readme-stats.vercel.app/api?username=duckodas&show_icons=true&show_icons=true&title_color=5865f2&text_color=ffffff&icon_color=5865f2&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
  <a href=https://www.discord.com/users/449814636582404106><img width="420" src=https://github-readme-stats.vercel.app/api?username=WhisterWasTaken&show_icons=true&show_icons=true&title_color=5865f2&text_color=ffffff&icon_color=5865f2&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
