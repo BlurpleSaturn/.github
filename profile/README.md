@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile+page.;I'll+recommend+checking+our+repo's;And+make+sure+to+leave+a+star!)](https://git.io/typing-svg)
 
 ### Connect with us:
-[![DiscordBanner](https://invidget.switchblade.xyz/antisystem-1044098950455627867)](https://discord.gg/antisystem-1044098950455627867)
+[![DiscordBanner](https://invidget.switchblade.xyz/the-blurple-saturn-1044098950455627867)](https://discord.gg/the-blurple-saturn-1044098950455627867)
 
 ### Stats for our members!
 
