@@ -2,6 +2,7 @@
 
 ### Connect with us:
 [![DiscordBanner](https://invidget.switchblade.xyz/the-blurple-saturn-1044098950455627867)](https://discord.gg/the-blurple-saturn-1044098950455627867)
+[![DiscordBanner2](https://invidget.switchblade.xyz/TKz7BMwEap)](https://discord.gg/TKz7BMwEap)
 
 ### Stats for our members!
 
